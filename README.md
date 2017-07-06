@@ -1,2 +1,5 @@
 # sonic
-A Lite and High Performance Hybrid Framework for Android and iOS
+
+Sonic is a lite and high performance hybrid framework, it supports Android and iOS.
+
+
